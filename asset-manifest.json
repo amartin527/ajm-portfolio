@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ajm-portfolio/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ajm-portfolio/static/js/main.9cc23746.chunk.js",
+    "main.js.map": "/ajm-portfolio/static/js/main.9cc23746.chunk.js.map",
+    "runtime-main.js": "/ajm-portfolio/static/js/runtime-main.7232e83d.js",
+    "runtime-main.js.map": "/ajm-portfolio/static/js/runtime-main.7232e83d.js.map",
+    "static/js/2.b297e3c9.chunk.js": "/ajm-portfolio/static/js/2.b297e3c9.chunk.js",
+    "static/js/2.b297e3c9.chunk.js.map": "/ajm-portfolio/static/js/2.b297e3c9.chunk.js.map",
+    "static/js/3.859a313f.chunk.js": "/ajm-portfolio/static/js/3.859a313f.chunk.js",
+    "static/js/3.859a313f.chunk.js.map": "/ajm-portfolio/static/js/3.859a313f.chunk.js.map",
+    "index.html": "/ajm-portfolio/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ajm-portfolio/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b297e3c9.chunk.js.LICENSE.txt": "/ajm-portfolio/static/js/2.b297e3c9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ajm-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7232e83d.js",
+    "static/js/2.b297e3c9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9cc23746.chunk.js"
+  ]
+}
